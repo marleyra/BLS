@@ -1,7 +1,10 @@
 Repo for my work with Bureau of Labor Statistics QCEW surveys.
 
-Written to work with data within the unzipped raw BLS data downloaded from https://www.bls.gov/cew/downloadable-data-files.htm, years 1990, 2000, 2010, and 2020.
+Written to work with data within the unzipped raw BLS data from years 1990, 2000, 2010, and 2020.
+- QCEW Surveys: https://www.bls.gov/cew/downloadable-data-files.htm
 
 Utilizes Metro/Micropolitan County designations from the US Census (created with OMB and used by BLS) and the BEA (which features combination areas not present in the Census).
+- Census Delineations: https://www.census.gov/geographies/reference-files/time-series/demo/metro-micro/delineation-files.html
+- BEA Statistical Areas: https://apps.bea.gov/regional/docs/msalist.cfm
 
-Regional designations from Wikipedia(?)
+Regional designations from Wikipedia.
