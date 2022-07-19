@@ -1,0 +1,61 @@
+﻿State,Defunct,Census Bureau enumeration,,,BEA enumeration (combination area),,
+,,FIPS,Geo code,Place name,FIPS,Geo code,Place name
+HI,,15005,HI005,"Kalawao, HI",15901,HI901,"Maui and Kalawao, HI"
+HI,,15009,HI009,"Maui, HI",,,
+VA,,51003,VA003,"Albemarle, VA ",51901,VA901,"Albemarle + Charlottesville, VA "
+VA,,51540,VA540,"Charlottesville (Independent City), VA ",,,
+VA,,51005,VA005,"Alleghany, VA ",51903,VA903,"Alleghany + Covington, VA "
+VA,,51580,VA580,"Covington (Independent City), VA ",,,
+VA,,51015,VA015,"Augusta, VA ",51907,VA907,"Augusta, Staunton + Waynesboro, VA "
+VA,,51790,VA790,"Staunton (Independent City), VA ",,,
+VA,,51820,VA820,"Waynesboro (Independent City), VA ",,,
+VA,X,51019,VA019,"Bedford, VA",51909,VA909,"Bedford + Bedford City, VA"
+VA,X,51515,VA515,"Bedford (Indenpedent City), VA",,,
+VA,,51031,VA031,"Campbell, VA ",51911,VA911,"Campbell + Lynchburg, VA "
+VA,,51680,VA680,"Lynchburg (Independent City), VA ",,,
+VA,,51035,VA035,"Carroll, VA ",51913,VA913,"Carroll + Galax, VA "
+VA,,51640,VA640,"Galax (Independent City), VA ",,,
+VA,,51053,VA053,"Dinwiddie, VA ",51918,VA918,"Dinwiddie, Colonial Heights + Petersburg, VA "
+VA,,51570,VA570,"Colonial Heights (Independent City), VA ",,,
+VA,,51730,VA730,"Petersburg (Independent City), VA ",,,
+VA,,51059,VA059,"Fairfax, VA ",51919,VA919,"Fairfax, Fairfax City + Falls Church, VA "
+VA,,51600,VA600,"Fairfax City (Independent City), VA ",,,
+VA,,51610,VA610,"Falls Church (Independent City), VA ",,,
+VA,,51069,VA069,"Frederick, VA ",51921,VA921,"Frederick + Winchester, VA "
+VA,,51840,VA840,"Winchester (Independent City), VA ",,,
+VA,,51081,VA081,"Greensville, VA ",51923,VA923,"Greensville + Emporia, VA "
+VA,,51595,VA595,"Emporia (Independent City), VA ",,,
+VA,X,51083,VA083,"Halifax, VA",51925,VA925,"Halifax + South Boston, VA"
+VA,X,51780,VA780,"South Boston (Independent City), VA",,,
+VA,,51089,VA089,"Henry, VA ",51929,VA929,"Henry + Martinsville, VA "
+VA,,51690,VA690,"Martinsville (Independent City), VA ",,,
+VA,,51095,VA095,"James City, VA ",51931,VA931,"James City + Williamsburg, VA "
+VA,,51830,VA830,"Williamsburg (Independent City), VA ",,,
+VA,,51121,VA121,"Montgomery, VA ",51933,VA933,"Montgomery + Radford, VA "
+VA,,51750,VA750,"Radford (Independent City), VA ",,,
+VA,,51143,VA143,"Pittsylvania, VA ",51939,VA939,"Pittsylvania + Danville, VA "
+VA,,51590,VA590,"Danville (Independent City), VA ",,,
+VA,,51149,VA149,"Prince George, VA ",51941,VA941,"Prince George + Hopewell, VA "
+VA,,51670,VA670,"Hopewell (Independent City), VA ",,,
+VA,,51153,VA153,"Prince William, VA ",51942,VA942,"Prince William, Manassas + Manassas Park, VA "
+VA,,51683,VA683,"Manassas (Independent City), VA ",,,
+VA,,51685,VA685,"Manassas Park (Independent City), VA ",,,
+VA,,51161,VA161,"Roanoke, VA ",51944,VA944,"Roanoke + Salem, VA "
+VA,,51775,VA775,"Salem (Independent City), VA ",,,
+VA,,51163,VA163,"Rockbridge, VA ",51945,VA945,"Rockbridge, Buena Vista + Lexington, VA "
+VA,,51530,VA530,"Buena Vista (Independent City), VA ",,,
+VA,,51678,VA678,"Lexington (Independent City), VA ",,,
+VA,,51165,VA165,"Rockingham, VA ",51947,VA947,"Rockingham + Harrisonburg, VA "
+VA,,51660,VA660,"Harrisonburg (Independent City), VA ",,,
+VA,,51175,VA175,"Southampton, VA ",51949,VA949,"Southampton + Franklin, VA "
+VA,,51620,VA620,"Franklin (Independent City), VA ",,,
+VA,,51177,VA177,"Spotsylvania, VA ",51951,VA951,"Spotsylvania + Fredericksburg, VA "
+VA,,51630,VA630,"Fredericksburg (Independent City), VA ",,,
+VA,,51191,VA191,"Washington, VA ",51953,VA953,"Washington + Bristol, VA "
+VA,,51520,VA520,"Bristol (Independent City), VA ",,,
+VA,,51195,VA195,"Wise, VA ",51955,VA955,"Wise + Norton, VA "
+VA,,51720,VA720,"Norton (Independent City), VA ",,,
+VA,,51199,VA199,"York, VA ",51958,VA958,"York + Poquoson, VA "
+VA,,51735,VA735,"Poquoson (Independent City), VA ",,,
+WI,,55078,WI078,"Menominee, WI",55901,WI901,"Shawano (incl. Menominee), WI (prior to 1989)"
+WI,,55115,WI115,"Shawano, WI",,,
