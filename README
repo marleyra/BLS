@@ -1,5 +1,14 @@
 Repo for my work with Bureau of Labor Statistics QCEW surveys.
 
+Most recently updated the delineation and regions files in the BLS_metromicro_regions nb.
+* re wrote BLS MASTER and BLS RegionalAnalysis to accommodate.
+* still need to update BLS MASTER 5DIGIT and BLS RegionalAnalysis 5DIGIT
+
+Other changes:
+* Split out BLS 31-33 code bc for some reason including it in the master was breaking my code
+
+GENERAL INFO
+
 Written to work with data within the unzipped raw BLS data from years 1990, 2000, 2010, and 2020.
 - QCEW Surveys: https://www.bls.gov/cew/downloadable-data-files.htm
 
@@ -7,4 +16,4 @@ Utilizes Metro/Micropolitan County designations from the US Census (created with
 - Census Delineations: https://www.census.gov/geographies/reference-files/time-series/demo/metro-micro/delineation-files.html
 - BEA Statistical Areas: https://apps.bea.gov/regional/docs/msalist.cfm
 
-Regional designations from Wikipedia.
+Regional and Division designations from Wikipedia and the US Census Bureau.
